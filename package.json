@@ -1,0 +1,15 @@
+{
+  "name": "s6-mini-project",
+  "version": "1.0.0",
+  "description": "A full-stack MERN application for managing academic tasks, schedules, and student performance with AI-based prioritization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
